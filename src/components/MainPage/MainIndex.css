@@ -1,0 +1,12 @@
+.container{
+
+    background-color:#E2E4F0;
+    width: 100%;
+    border: 2px solid blue;
+    position: absolute;
+    top: 61px;
+    left: 0px;
+    height: 80vh;
+    margin: 0%;
+    padding: 0%;
+}

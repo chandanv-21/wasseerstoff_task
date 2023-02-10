@@ -1,0 +1,95 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 3.75rem;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: #FFFFFF;
+}
+.navigation{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+.elem-1{
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    left: 3.38%;
+    top: .88rem;
+    background: conic-gradient(from 180deg at 50% 50%, #7000FF 0deg, #7D9AFF 0.04deg, #FF7AD2 183.75deg, #7000FF 360deg);
+    border-radius: 50%;
+
+}
+.elem-2{
+    position: absolute;
+    width: 68px;
+    height: 22px;
+    left: 5.06%;
+    top: .88rem;
+    font-family: 'Archivo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20.5076px;
+    line-height: 22px;
+    color: #000000;
+}
+.elem-3{
+    position: absolute;
+    width: 27.83%;
+    height: 22px;
+    left: 20.83%;
+    top: .88rem;
+    background: #EEF0FA;
+    border-radius: 8px;
+}
+.elem-3 input{
+    width: 100%;
+    background: #EEF0FA;
+    border-radius: 8px;
+    border: none;
+
+}
+.elem-4,.elem-5, .elem-6, .elem-7{
+    position: absolute;
+    height: 24px;
+    top: .88rem;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    letter-spacing: 0.44px;
+    color: #8484A0;
+}
+.elem-4{
+    left: 53.49%;
+}
+.elem-5{
+    left: 61.77%;
+}
+.elem-6{
+    left: 70.10%;
+}
+.elem-7{
+    left: 79.32%;
+}
+.elem-8{
+    position: absolute;
+    left: 93.23%;
+    width: 16px;
+    right: 4px;
+    top: 0.88rem;
+}
+.elem-9{
+    position: absolute;
+    left: 95.73%;
+    width: 20px;
+    right: 2px;
+    top: 0.88rem;
+}
