@@ -14,3 +14,6 @@ Run " npm i d3-scale" for color patterns on world map.
 For running project first use "json-server --watch db.json --port 5555" to start the json server and the use "npm start" to run main project. 
 
 
+# Project Demo
+Here is the attched video link for the explanation of the project.
+"https://drive.google.com/file/d/11g-4Mrg5YLtwR8Kjb0z9VzmGTqvIA_dM/view?usp=sharing"

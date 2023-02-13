@@ -27,7 +27,7 @@ const MainIndex = () => {
     fetch("http://localhost:5555/population", {
       headers: {
         "Content-Type": "application/json",
-        Accept: "application/json",
+        "Accept": "application/json",
       },
     })
       .then(function (response) {
